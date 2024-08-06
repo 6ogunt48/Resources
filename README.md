@@ -1,5 +1,5 @@
 # Resources
-A collection of books and resources I have read and haven't read that is needed for someone into Sys admin/ DevOps, infrastructure, and distributed systems
+
 
 
 # DevOps, Infrastructure, and Distributed Systems Resources
