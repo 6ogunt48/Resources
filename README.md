@@ -45,6 +45,10 @@ A collection of books and resources I have read and haven't read that I may need
 ### Networking
 - Beej's Guide to Network Programming: Using Internet Sockets in pure C
 
+### Design patterns
+- Domain-Driven Design: Tackling Complexity in the Heart of Software
+
+
 ### Tools
 - Vim: Edit text at the speed of thought
 
