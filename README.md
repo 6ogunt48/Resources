@@ -30,10 +30,7 @@ A collection of books and resources I have read and haven't read that I may need
 - Introduction to Algorithms, fourth edition
 
 ### DevOps and Infrastructure
-- Kubernetes: Up and Running: Dive into the Future of Infrastructure
-- Ansible for DevOps: Server and configuration management for humans
-- Ansible for Kubernetes
-- Docker: Up and running
+- [Kode Cloud labs](https://kodekloud.com)
 
 ### Programming Languages
 - writing an interpreter in Go
