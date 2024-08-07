@@ -42,9 +42,6 @@
 - Domain-Driven Design: Tackling Complexity in the Heart of Software
 
 
-### Tools
-- Vim: Edit text at the speed of thought
-
 ## Other Resources
 - [Build Your Own X](https://build-your-own.org)
 - [CodeCrafters](https://codecrafters.io)
