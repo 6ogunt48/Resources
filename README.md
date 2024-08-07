@@ -36,7 +36,7 @@
 - The Go programming language: Brian Kernighan
 
 ### Networking
-- Beej's Guide to Network Programming: Using Internet Sockets in pure C
+- Beej's Guide to Network Programming: Using Internet Sockets
 
 ### Design patterns
 - Domain-Driven Design: Tackling Complexity in the Heart of Software
