@@ -12,7 +12,6 @@
 - Writing a C Compiler: Build a Real Programming Language from Scratch
 - The C Programming Language (2nd Edition): Brian Kernighan
 - Computer systems: a programmer's perspective
-- Algorithms in C
 - Modern C
 
 ### Operating Systems and System Administration
