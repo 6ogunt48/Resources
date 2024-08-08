@@ -13,6 +13,7 @@
 - The C Programming Language (2nd Edition): Brian Kernighan
 - Computer systems: a programmer's perspective
 - Modern C
+- writing an interpreter in Go
 
 ### Operating Systems and System Administration (Linux Focused)
 - Operating systems: three easy pieces
@@ -30,8 +31,8 @@
 - [Kode Cloud labs](https://kodekloud.com)
 
 ### Programming Languages
-- writing an interpreter in Go
-- The Go programming language: Brian Kernighan
+
+- [Go Programming Language]([https://build-your-own.or](https://go.dev/doc/effective_go)
 
 ### Networking
 - Beej's Guide to Network Programming: Using Internet Sockets
