@@ -18,7 +18,6 @@
 - Operating systems: three easy pieces
 - UNIX and Linux System Administration Handbook
 - The Linux Programming Interface: A Linux and UNIX System Programming Handbook
-- The Linux Command line: Williams shotts
 
 ### Distributed Systems and Databases
 - Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
