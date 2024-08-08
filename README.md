@@ -37,9 +37,6 @@
 ### Networking
 - Beej's Guide to Network Programming: Using Internet Sockets
 
-### Design patterns
-- Domain-Driven Design: Tackling Complexity in the Heart of Software
-
 
 ## Other Resources
 - [Build Your Own X](https://build-your-own.org)
