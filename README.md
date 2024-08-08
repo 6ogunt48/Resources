@@ -10,7 +10,6 @@
 - The element of computing systems: building a modern computer from first principles
 - Writing a C Compiler: Build a Real Programming Language from Scratch
 - The C Programming Language (2nd Edition): Brian Kernighan
-- Computer systems: a programmer's perspective
 - writing an interpreter in Go
 
 ### Operating Systems and System Administration (Linux Focused)
