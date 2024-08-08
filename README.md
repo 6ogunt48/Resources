@@ -5,14 +5,13 @@
 
 ## Books
 
-### Computer Systems and Low-Level Programming
+### Computer Systems and Low-Level Programming (Foundation)
 - Blue Fox: Arm Assembly Internals and Reverse Engineering
 - The element of computing systems: building a modern computer from first principles
 - CODE: the hidden language of computer hardware and software
 - Writing a C Compiler: Build a Real Programming Language from Scratch
 - The C Programming Language (2nd Edition): Brian Kernighan
 - Computer systems: a programmer's perspective
-- Modern C
 - writing an interpreter in Go
 
 ### Operating Systems and System Administration (Linux Focused)
