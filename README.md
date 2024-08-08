@@ -1,5 +1,5 @@
 
-## Software, systems, DevOps, Infrastructure, and Distributed Systems Resources
+## A collection of high quality resources
 
 
 
