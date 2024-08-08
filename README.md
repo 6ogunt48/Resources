@@ -14,7 +14,7 @@
 - Computer systems: a programmer's perspective
 - Modern C
 
-### Operating Systems and System Administration
+### Operating Systems and System Administration (Linux Focused)
 - Operating systems: three easy pieces
 - UNIX and Linux System Administration Handbook
 - The Linux Programming Interface: A Linux and UNIX System Programming Handbook
