@@ -23,8 +23,6 @@
 - Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
 - Database Internals: A Deep Dive into How Distributed Data Systems Work
 
-### Algorithms and Data Structures
-- Introduction to Algorithms, fourth edition
 
 ### DevOps and Infrastructure
 - [Kode Cloud labs](https://kodekloud.com)
