@@ -32,7 +32,7 @@
 
 ### Programming Languages
 
-- [Go Programming Language]([https://build-your-own.or](https://go.dev/doc/effective_go)
+- [Go Programming Language](https://go.dev/doc/effective_go)
 
 ### Networking
 - Beej's Guide to Network Programming: Using Internet Sockets
