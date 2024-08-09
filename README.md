@@ -10,6 +10,7 @@
 - The element of computing systems: building a modern computer from first principles
 - Writing a C Compiler: Build a Real Programming Language from Scratch
 - Beejs guide to C Programming.
+- The C programming Language (2nd edition)
 - writing an interpreter in Go
 
 ### Operating Systems and System Administration (Linux Focused)
@@ -39,3 +40,4 @@
 - [Nand2Tetris](https://www.nand2tetris.org)
 - [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 - [roadmap.sh](https://roadmap.sh/)
+- [Beej guides](https://beej.us/guide/)
