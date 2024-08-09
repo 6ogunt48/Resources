@@ -9,7 +9,7 @@
 - Blue Fox: Arm Assembly Internals and Reverse Engineering
 - The element of computing systems: building a modern computer from first principles
 - Writing a C Compiler: Build a Real Programming Language from Scratch
-- The C Programming Language (2nd Edition): Brian Kernighan
+- The C Programming Language (2nd Edition)
 - writing an interpreter in Go
 
 ### Operating Systems and System Administration (Linux Focused)
